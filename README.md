@@ -2,10 +2,13 @@ NETFLIX GPT
 
 --create-react-app
 --configured TailwindCSS
+--Header
+--Login Form
+--Sign Up Form
 
 #Features
 -Login/Signup
-    -Sign In/Sign up Form
+    -Sign In/Sign up Formr
     -redirect to Browse Page
 -Browse(after authentication)
     -Header
