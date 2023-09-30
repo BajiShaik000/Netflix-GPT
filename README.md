@@ -11,6 +11,11 @@ NETFLIX GPT
 --Firebase Setup
 --Deploying our app to production
 --Create SignUp User Account
+--Implement Sign In User API
+--Created Redux Store with user Slice
+--Implemented Sign out
+--Update Profile
+--Fetch from TMDB Movies
 
 #Features
 -Login/Signup
